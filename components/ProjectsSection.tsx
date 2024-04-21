@@ -10,14 +10,14 @@ const projects = [
     description:
       "DAHLAN CAR CARE is a Automotive Detailing Business website, showcasing sections like About, Services, Store, and Members. Leveraging HTML and CSS, I designed an engaging user experience.",
     image: "/DCC.png",
-    github: "",
+    github: "https://github.com/mahmouddahlan/DAHLAN-CAR-CARE",
     link: "https://mahmouddahlan.github.io/DAHLAN-CAR-CARE/index.html",
   },
   {
     name: "Youtube clone",
     description: "EntertainmentTV is a React-based web application that clones YouTube. It allows users to browse and watch a wide variety of videos and interact with content, just like on the real YouTube platform.",
     image: "/youtubeclone.png",
-    github: "",
+    github: "https://github.com/mahmouddahlan/YoutubeClone",
     link: "https://entertainmenttv.vercel.app/",
   },
   {
@@ -33,7 +33,7 @@ const projects = [
     description:
       "A dynamic Car Rental website, deployed on Vercel, was created using Next.js, React, TypeScript, and Tailwind CSS. Users can conveniently search for cars by make and model, filter by year and fuel type, and access detailed car cards with images and specifications.",
     image: "/carlink.png",
-    github: "",
+    github: "https://github.com/mahmouddahlan/car-rental",
     link: "https://car-rental-vga2.vercel.app/",
   },
   
